@@ -1382,3 +1382,8 @@ section {
 #footer .footer-links a:hover {
   color: #3498db;
 }
+
+/* h1,p,h2,h3,h4,body,span,div,nav,section,header,main{
+  background-color: #100303;
+  color:white;
+} */
